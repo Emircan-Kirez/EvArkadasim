@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/myRequests"
+        android:icon="@drawable/baseline_moving_24"
+        app:showAsAction="ifRoom"
+        android:title="İsteklerim"/>
+
+    <item android:id="@+id/requests"
+        android:icon="@drawable/baseline_notifications_24"
+        app:showAsAction="ifRoom"
+        android:title="Bildirimlerim"/>
+
+    <item android:id="@+id/sign_out"
+        android:icon="@drawable/baseline_logout_24"
+        app:showAsAction="ifRoom"
+        android:title="Çıkış Yap" />
+
+</menu>

@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Ev Arkadaşım</string>
+    <string name="MAP_API_KEY">AIzaSyCX5n_OzrTvXk37biKpIYH8nIgBFN4rbJY</string>
+
+    <string-array name="grades">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+
+    <string-array name="states">
+        <item>Kalacak ev arıyor</item>
+        <item>Ev arkadaşı arıyor</item>
+        <item>Aramıyor</item>
+    </string-array>
+
+    <string-array name="filters">
+        <item>İsim</item>
+        <item>İsim Soyisim</item>
+        <item>Sınıf</item>
+        <item>Kampüse uzaklık</item>
+        <item>Evde kalma süresi</item>
+    </string-array>
+
+</resources>
