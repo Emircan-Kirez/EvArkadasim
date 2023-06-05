@@ -1,6 +1,5 @@
 <resources>
     <string name="app_name">Ev Arkadaşım</string>
-    <string name="MAP_API_KEY">AIzaSyCX5n_OzrTvXk37biKpIYH8nIgBFN4rbJY</string>
 
     <string-array name="grades">
         <item>1</item>
